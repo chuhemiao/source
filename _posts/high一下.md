@@ -6,7 +6,7 @@ date: 2016-01-09 22:06:07
 tags: linux
 ---
 ### high一下
-+ 在```Hexo/themes/pacman/layout/_partial/header.ejs```中的`<ul>`标签内部，增加一对`<li>`标签，并把如下内容拷贝进去：
++ 在`Hexo/themes/pacman/layout/_partial/header.ejs`中的`<ul>`标签内部，增加一对`<li>`标签，并把如下内容拷贝进去：
 		```<li> <a title="把这个链接拖到你的Chrome收藏夹工具栏中" href='javascript:(function() {
 		function c() {
 		var e = document.createElement("link");
