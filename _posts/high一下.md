@@ -7,7 +7,7 @@ tags: linux
 ---
 ### high一下
 + 在`Hexo/themes/pacman/layout/_partial/header.ejs`中的`<ul>`标签内部，增加一对`<li>`标签，并把如下内容拷贝进去：
-		```<li> <a title="把这个链接拖到你的Chrome收藏夹工具栏中" href='javascript:(function() {
+		<li> <a title="把这个链接拖到你的Chrome收藏夹工具栏中" href='javascript:(function() {
 		function c() {
 		var e = document.createElement("link");
 		e.setAttribute("type", "text/css");
@@ -156,5 +156,5 @@ tags: linux
 		O.push(A)
 		}
 		}
-		})()    '>High一下</a> </li>```
+		})()    '>High一下</a> </li>
 + 就这么随意，可以玩一下我的High一下！！
