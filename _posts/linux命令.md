@@ -3,7 +3,7 @@ id: .nan
 categories:
   - LINUX
 date: 2015-08-20 11:45:07
-tags:
+tags: linux
 ---
 
 1.  fs -du -s -h 文件路径    统计当前文件的大小

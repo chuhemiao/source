@@ -9,5 +9,6 @@ date: 2016-01-07 12:53:54
 + 装备：入手macbook pro 、单反D7000、Fiil耳机
 + learning：日语、Python、node、深入linux
 + Email：yifeng826@vip.qq.com
++ 微信公众号:梦遥奇缘
 >在梦的世界里，遥就是一切，在这个奇幻的世界里，遇到你何尝不是一种缘分。
  >>梦遥奇缘
