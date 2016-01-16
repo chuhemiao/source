@@ -7,7 +7,7 @@ tags:
 	- markdown
 ---
 
-## 附上代码图，以下是代码编辑之后效果![mardphoto](http://source.shengxuezixun.com/images%2Fmarkdown.png?imageMogr2/thumbnail/300x300)
+## 附上代码图，以下是代码编辑之后效果![mardphoto](http://source.shengxuezixun.com/images%2Fmarkdown.png?imageMogr2/thumbnail/500x800)
 ## Markdown当中设置标题，有两种方式
 + 第一种：通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。
 + 第二种：在文字开头加上 “#”，通过“#”数量表示几级标题。（一共只有1~6级标题，1级标题字体最大）
