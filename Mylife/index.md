@@ -1,4 +1,5 @@
 ---
+layout: photo
 title: Mylife
 date: 2016-01-20 19:14:09
 tags:
