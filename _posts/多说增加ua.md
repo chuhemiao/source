@@ -6,6 +6,7 @@ date: 2016-01-16 14:18:08
 tags: 
 	- hexo
 	- UA
+description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ## 下载一个多说的embed.js,一下是我的资源
 + [embed](http://source.shengxuezixun.com/embed.js;)

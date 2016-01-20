@@ -8,6 +8,7 @@ tags:
    - vc9
    - TS
    - NTS
+description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 1.VC6与VC9的区别：
 + VC6 版本是使用 Visual Studio 6 编译器编译的，如果你的 PHP 是用 Apache 来架设的，那你就选择 VC6 版本。  VC9 版本是使用 Visual Studio 2008 编译器编译的，如果你的 PHP 是用 IIS 来架设的，那你就选择 VC9 版本。  VC9 版本是针对 IIS 服务器的版本，没有对 APACHE 的支持，而 VC6 版本对 IIS 和 apache 都提供了支持 

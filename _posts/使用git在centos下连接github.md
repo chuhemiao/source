@@ -4,6 +4,9 @@ categories:
   - PHP
 date: 2015-10-22 10:04:10
 tags:
+  - git
+  - centos
+description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
 1.  git安装

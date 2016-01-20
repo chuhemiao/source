@@ -3,7 +3,10 @@ id: .nan
 categories:
   - hexo
 date: 2016-01-09 22:06:07
-tags: linux
+tags: 
+	- hexo
+	- high
+description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ### high一下
 + 在`Hexo/themes/pacman/layout/_partial/header.ejs`中的`<ul>`标签内部，增加一对`<li>`标签，并把如下内容拷贝进去：
