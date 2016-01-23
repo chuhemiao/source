@@ -5,6 +5,8 @@ id: .nan
 categories:
   - 心の栄養
 date: 2015-09-23 05:26:00
+keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
+description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
 ## 昨天看一个人的博客，突然看到了typecho，然后就新血来潮的直接换了，下面介绍下转数据库的方法。
