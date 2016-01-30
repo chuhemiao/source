@@ -7,7 +7,6 @@ categories:
   - ubuntu
 date: 2016-01-09 16:44:20
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
-description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ## ubuntu常见错误--Could not get lock /var/lib/dpkg/lock解决
 1.通过终端安装程序sudo apt-get install xxx时出错：

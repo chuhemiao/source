@@ -6,7 +6,6 @@ date: 2016-01-16 15:18:08
 tags: 
 	- markdown
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
-description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
 ## 附上代码图，以下是代码编辑之后效果![mardphoto](http://source.shengxuezixun.com/images%2Fmarkdown.png?imageMogr2/thumbnail/500x800)

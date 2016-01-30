@@ -5,7 +5,6 @@ categories:
 date: 2015-08-20 11:45:07
 tags: linux
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
-description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
 1.  fs -du -s -h 文件路径    统计当前文件的大小

@@ -5,7 +5,6 @@ categories:
 date: 2015-08-19 06:00:06
 tags: 面试,hr
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
-description: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ### HR总结六项面试应对方法
 1.面试迟到了怎么办？
