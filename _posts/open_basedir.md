@@ -1,4 +1,4 @@
-title: PHP Warning: chdir(): open_basedir restriction in effect!!!
+title: PHP Warning  open_basedir restriction in effect!!!
 id: .nan
 categories:
   - PHP
