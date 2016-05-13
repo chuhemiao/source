@@ -2,7 +2,7 @@ title: HTTP状态码
 id: .nan
 categories:
   - PHP
-date: 2016-05-13 23:55:53
+date: 2016-04-13 23:55:53
 tags: http
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
