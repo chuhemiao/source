@@ -9,8 +9,8 @@ date: 2016-07-04 14:44:20
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ## 第一步:下载扩展
-1.<https://sourceforge.net/projects/mcrypt/>
-2.<http://zh.osdn.jp/projects/sfnet_mcrypt/downloads/Libmcrypt/2.5.8/libmcrypt-2.5.8.tar.gz/>
+1.[mcrypt](https://sourceforge.net/projects/mcrypt/)
+2.[libmcrypt](http://zh.osdn.jp/projects/sfnet_mcrypt/downloads/Libmcrypt/2.5.8/libmcrypt-2.5.8.tar.gz/)
 ## 第二部：解压并进入到相应目录
 1.使用phpize模式去安装
 2.`/usr/local/php/bin/phpize`   如果不知道位置（`whereis phpize`）
