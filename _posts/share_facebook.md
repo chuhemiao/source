@@ -39,5 +39,8 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 ## ps:使用`share.js`时的问题
 
-1.如果出现在ios中不能指定社交分享媒体，请查看自己使用的是否为jQuery版本，js原生版本只能在安卓上显示自己指定的社交分享图
+1.如果出现在ios中不能指定社交分享媒体，请查看自己使用的是否为jQuery版本，js原生版本只能在安卓上显示自己指定的社交分享媒体
+2.参考资料:
+	+ [dotblog](https://dotblogs.com.tw/walter/2014/05/21/how-to-set-facebook-share-info)
+	+ [facebook_tools](https://developers.facebook.com/tools/debug/)
 
