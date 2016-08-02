@@ -4,11 +4,6 @@ date: 2016-01-20 19:14:09
 tags: mylife
 ---
 
-<div style="max-width: 350px;max-height: 150px">
-<embed style="margin-top: -35px;" frameborder="no" border="0"marginwidth="0" marginheight="0" src="http://music.163.com/outchain/player?type=2&id=25713024&auto=1&height=90"></embed>
-</div>
-
-
 <div class="container" style="margin-top:60px">
     <div id="slides">
       <img src="//source.shengxuezixun.com/images%2Fbjcity.jpg?imageMogr2/thumbnail/600x600">
