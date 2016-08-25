@@ -1,13 +1,14 @@
-title: nginx和php-fpm像关问题!!!
+title: php安装libmcrypt和mcrypt扩展
 id: .nan
 categories:
   - PHP
-date: 2016-06-30 18:45:27
+date: 2016-06-30 22:45:27
 tags: 
-	-php
-	-nginx
-keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter,星座
+	- php
+	- nginx
+keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
+
 # `Nginx [emerg]: bind() to 0.0.0.0:80 failed (98: Address already in use)`
  
 1.意思是重复绑定了`server name`,但这个警告不会影响到服务器运行。是重复绑定的意思是现在运行的nginx服务和将要加载的新配置中的重复，所以，这个警告其实是不必的。

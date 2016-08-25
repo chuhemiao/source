@@ -1,6 +1,8 @@
 ---
 title: 梦遥奇缘
 date: 2016-01-07 12:53:54
+tags: chuhe
+keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
 # 个人信息

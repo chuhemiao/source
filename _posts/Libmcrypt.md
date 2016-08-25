@@ -1,13 +1,14 @@
 title: php安装libmcrypt和mcrypt扩展
-tags:
-  - libmcrypt
-  - mcrypt
 id: .nan
 categories:
   - PHP
-date: 2016-07-04 14:44:20
+date: 2016-07-14 16:45:27
+tags: 
+	- libmcrypt
+	- mcrypt
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
+
 ## 第一步:下载扩展
 1.[mcrypt](https://sourceforge.net/projects/mcrypt/)
 2.[libmcrypt](http://zh.osdn.jp/projects/sfnet_mcrypt/downloads/Libmcrypt/2.5.8/libmcrypt-2.5.8.tar.gz/)

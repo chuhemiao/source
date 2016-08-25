@@ -2,10 +2,13 @@ title: HTTP工作原理
 id: .nan
 categories:
   - PHP
-date: 2016-05-13 23:55:53
-tags: http
+date: 2016-05-13 12:45:27
+tags: 
+	- http
+	- php
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
+
 # HTTP 工作原理
 1. HTTP 协议采用请求/响应模型。客户端向服务器发送一个请求报文，服务器以一个状态作为响应。
 2. 以下是 HTTP 请求/响应的步骤：

@@ -1,10 +1,11 @@
-title: 必备的基础知识
-tags:
-  - 知识
+title: 必备的基础工具和知识
 id: .nan
 categories:
   - PHP
-date: 2016-08-25 14:14:37
+date: 2016-08-25 12:45:27
+tags: 
+	- PHP
+	- UA
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 

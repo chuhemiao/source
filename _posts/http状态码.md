@@ -2,10 +2,13 @@ title: HTTP状态码
 id: .nan
 categories:
   - PHP
-date: 2016-04-13 23:55:53
-tags: http
+date: 2016-04-13 23:45:27
+tags: 
+	- http
+	- php
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
+
 1.100 Continue 初始的请求已经接受，客户应当继续发送请求的其余部分。（HTTP 1.1新）
 
 2.101 Switching Protocols 服务器将遵从客户的请求转换到另外一种协议（HTTP 1.1新）

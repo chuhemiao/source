@@ -1,10 +1,11 @@
 title: php获取用户的ip
-tags:
-  - ip
 id: .nan
 categories:
-  - PHP
+  - hexo
 date: 2016-03-15 12:45:27
+tags: 
+	- hexo
+	- UA
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 

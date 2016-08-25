@@ -2,11 +2,13 @@ title: php安装扩展
 id: .nan
 categories:
   - PHP
-date: 2016-05-24 23:45:08
+date: 2016-05-24 23:45:06
 tags: 
-	- extension
+	- php
+	- nginx
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
+
 
 1.下载需要安装的扩展包，解压并进入当前目录
 

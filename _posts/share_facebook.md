@@ -1,11 +1,11 @@
 title: 指定图片分享到facebook，fb图片缓存问题
-tags:
-  - facebook
-  - share
 id: .nan
 categories:
   - PHP
-date: 2016-07-19 16:55:20
+date: 2016-07-19 15:33:27
+tags: 
+	- facebook
+	- share
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ## 使用share.js插件分享到社交媒体
