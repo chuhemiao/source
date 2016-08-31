@@ -3,6 +3,7 @@ tags:
   - busy
   - Overtime
 id: .nan
+toc: true
 categories:
   - 心の栄養
 date: 2016-08-31 16:45:27
@@ -11,6 +12,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 # Busy Month
 + 游戏上线，各种活动，持续加班，已经赶上了一年前的每月30天班，都是泪！
+
 # To sum up
 
 1. 2016-08-01~~2016-08-05
