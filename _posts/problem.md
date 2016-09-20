@@ -38,5 +38,16 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 + `ping idiot6.com` 测试当前服务是否通
 + 使用`telnet idiot6.com 3690`   使用`telnet`查看当前的端口是否通
 
+5.检测当前怎样安装的php
++ `rpm -qa php`
+
+6.yum安装库带devel和不带的区别
++ devel是编译其他库但是依赖这个库的时候用的
++ 就是源码版, 没有devel的是二进制包, 编译好的
+
+7.短信验证码页面嵌套时，发送的短信每次session都会变
+8.laravel5.2自定义分页，只需要修改`BootstrapFourPresenter.php`中的class属性为自己定义的样式即可
+9.sql只用排序时，`order by` 字段（应该为int形）否侧是按字节排序
+
 > 这些天踩过的坑
  >> By 梦遥奇缘
