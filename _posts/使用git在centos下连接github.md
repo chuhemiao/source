@@ -7,6 +7,7 @@ tags:
   - git
   - centos
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
+description: git安装,生成密匙,sudo apt-get install git git-core
 ---
 
 1.  git安装

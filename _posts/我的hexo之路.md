@@ -11,6 +11,7 @@ categories:
   - hexo
 date: 2016-01-09 16:50:20
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
+description: 安装nodeJS之前，如果没有安装g++及 libssl-dev，则先要安装好，安装方法如下。
 ---
 # 我的hexo之路
 ## 安装nodeJS之前，如果没有安装g++及 libssl-dev，则先要安装好，安装方法如下：
