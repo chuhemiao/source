@@ -7,14 +7,15 @@ tags: 公司
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 ## `curl`访问`https`接口
-
-			$url = "https://test.idiot.com/preregister/data?phone=15756892356" ;
-			$ch = curl_init();
-			curl_setopt($ch, CURLOPT_URL,$url);
-			curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-			curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-			$result = curl_exec($ch);
-			print_r($result)
+```php
+$url = "https://test.idiot.com/preregister/data?phone=15756892356" ;
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL,$url);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+$result = curl_exec($ch);
+print_r($result);
+```
 
 
 ## 图片点击直接下载
