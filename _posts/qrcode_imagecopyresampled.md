@@ -8,7 +8,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 ---
 ##   载入phpqrcode，并使用合成图片
 ```php
-include('phpqrcode.php"),下载地址[phpqrcode](https://sourceforge.net/projects/phpqrcode/);
+include('phpqrcode.php");
 $filename = "xxx.png";//图片路径
 $errorCorrectionLevel = 'L';//容错级别
 $matrixPointSize = 3; //生成图大小
@@ -29,6 +29,9 @@ $file = '/data/www/upload/qrcode/' . $result_png;
 
 imagepng ( $logo, $file );//output picture
 ```
+
+## qrcode download
+[phpqrcode](https://sourceforge.net/projects/phpqrcode/)
 
 
 
