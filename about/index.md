@@ -9,7 +9,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
  - 呆子/男/1993-02-03
  - 专科/济源职业技术学院
- - 工作年限：1年
+ - 工作年限：1.5年
  - 微博：[@梦遥奇缘](http://weibo.com/p/1006063292942135/home?from=page_100606&mod=TAB#place) 
  - 技术博客：http://idiot6.com 
  - Github: http://github.com/chuhemiao
@@ -42,7 +42,8 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 - [微信分享到朋友圈，使用特定Logo](http://www.idiot6.com/2016/05/26/wechat_share/)
 - [php获取用户的ip](http://www.idiot6.com/2016/03/15/%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7ip/) 
-
+- [php使用qrcode生成二维码，并合成为一张图](http://www.idiot6.com/2016/11/16/qrcode_imagecopyresampled/)
+- [instagram上传照片后hexo报错](http://www.idiot6.com/2016/09/07/instagram/)
 
 # 技能清单
 
@@ -51,20 +52,29 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 - Web开发：PHP/Node
 - Web框架:Yaf/Laravel/
 - 前端框架：Bootstrap、amaze ui
-- 数据库相关：MySQL/PDO/
+- 数据库相关：MySQL/PDO/ado
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
 
 # 个人爱好
 
-- 爱好：喜欢动漫，摄影，科技，喜欢研究一些无聊的东西，各种折腾
-- 装备： 单反70D，Ipad Air2,准备买mbp
+- 爱好：喜欢动漫，摄影，科技、电视剧、看书，喜欢研究一些无聊的东西，各种折腾
+- 装备： 单反70D(18-135)，Ipad Air2,准备买mbp
 - learning：日语、Python、node、深入linux
 
 # 联系方式
 
 - 手机：182727037** 
 - Email：yifeng826@vip.qq.com 
-- QQ/微信号：535101602
+- QQ/微信号：NTM1MTAxNjAy
+
+#阅读
+
+- 东野圭吾
+  + 已读（新参者、解忧杂货店、只差一个谎言、恶意、嫌疑人X的献身）
+  + 在读（白夜行）
+
+- 王远成
+	+ 已读（别扯了时间根本不会改变一切）
 
 ---	
 
