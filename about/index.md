@@ -8,8 +8,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 # 个人信息
 
  - 呆子/男/1993-02-03
- - 专科/济源职业技术学院
- - 工作年限：1.5年
+ - 工作年限：1.7年
  - 微博：[@梦遥奇缘](http://weibo.com/p/1006063292942135/home?from=page_100606&mod=TAB#place) 
  - 技术博客：http://idiot6.com 
  - Github: http://github.com/chuhemiao
@@ -49,7 +48,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Node
+- Web开发：PHP/Node/GO
 - Web框架:Yaf/Laravel/
 - 前端框架：Bootstrap、amaze ui
 - 数据库相关：MySQL/PDO/ado
@@ -59,27 +58,31 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 - 爱好：喜欢动漫，摄影，科技、电视剧、看书，喜欢研究一些无聊的东西，各种折腾
 - 装备： 单反70D(18-135)，Ipad Air2,准备买mbp
-- learning：日语、Python、node、深入linux
+- learning：日语、Python、node、深入linux/GO
 
 # 联系方式
 
 - 手机：182727037** 
-- Email：yifeng826@vip.qq.com 
+- Email：chuhemiao@gmail.com 
 - QQ/微信号：NTM1MTAxNjAy
 
 #阅读
 
 - 东野圭吾
-  + 已读（新参者、解忧杂货店、只差一个谎言、恶意、嫌疑人X的献身）
-  + 在读（白夜行）
+  + 已读（白夜行、新参者、解忧杂货店、只差一个谎言、恶意、嫌疑人X的献身）
+  + 在读（彷徨之刃）
 
 - 王远成
 	+ 已读（别扯了时间根本不会改变一切）
+
+- 凯勒 帕帕森
+	+ 在读（最重要的事，只有一件）
 
 ---	
 
 + 微信公众号:![梦遥奇缘](http://source.shengxuezixun.com/images%2Fweixin.jpg)
 >在梦的世界里，遥就是一切，在这个奇幻的世界里，遇到你何尝不是一种缘分。
+>想要，才去追寻。
  >>梦遥奇缘	
 
 
