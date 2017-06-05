@@ -84,6 +84,8 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 ---	
 
 + 微信公众号:![梦遥奇缘](http://source.shengxuezixun.com/images%2Fweixin.jpg)
+
++ 打赏我（NC5TBM-27SX6X-I3AF46-XLTMMZ-7AXDBT-HKBVPC-RUJE）：![NEM](http://source.shengxuezixun.com/images/jpg/20170605-nem.JPG)
 >在梦的世界里，遥就是一切，在这个奇幻的世界里，遇到你何尝不是一种缘分。
 >想要，才去追寻。
  >>梦遥奇缘	
