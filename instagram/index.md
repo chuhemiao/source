@@ -1,5 +1,5 @@
 ---
-title: "My album"
+title: "My Ins album"
 noDate: "true"
 ---
 <div class="instagram">

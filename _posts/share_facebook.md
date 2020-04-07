@@ -16,11 +16,11 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 2.分享到fb时，图片出现缓存问题
 
 + 清除缓存：`https://developers.facebook.com/tools/debug/`
-+ ![facebook](http://source.shengxuezixun.com/facebook_clear.png)
++ ![facebook](https://source.shengxuezixun.com/facebook_clear.png)
 
 3.点击debug之后:
 
-+ ![facebook](http://source.shengxuezixun.com/fb_url.png)
++ ![facebook](https://source.shengxuezixun.com/fb_url.png)
 
 4.多次点击清除，如果还不行，那就直接指定
 

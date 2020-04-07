@@ -16,5 +16,5 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 + 把符合以上两个条件的图片放到`<img>`里，放到页面`<body>`内的最前面。
 + 这样分享时就会取这张图作为缩略图了。
 
-4.`<img style="position:absolute;top:-200%;left: -200%;display:block" src="http://source.shengxuezixun.com/images/author.jpg" >`
+4.`<img style="position:absolute;top:-200%;left: -200%;display:block" src="https://source.shengxuezixun.com/images/author.jpg" >`
 5.更新了n次，忘记提交图片，忧伤！！！

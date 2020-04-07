@@ -8,7 +8,7 @@ tags:
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter
 ---
 
-## 附上代码图，以下是代码编辑之后效果![mardphoto](http://source.shengxuezixun.com/images%2Fmarkdown.png?imageMogr2/thumbnail/500x800)
+## 附上代码图，以下是代码编辑之后效果![mardphoto](https://source.shengxuezixun.com/images%2Fmarkdown.png?imageMogr2/thumbnail/500x800)
 ## Markdown当中设置标题，有两种方式
 + 第一种：通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。
 + 第二种：在文字开头加上 “#”，通过“#”数量表示几级标题。（一共只有1~6级标题，1级标题字体最大）
@@ -20,7 +20,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 + [描述](http://www.idiot6.com)
 ## 增加图片
 + 图片地址可以是外链（七牛图床），也可以是当前服务器上的资源
-+ ![描述](http://source.shengxuezixun.com/images%2Flogo.png?imageMogr2/thumbnail/300x300)
++ ![描述](https://source.shengxuezixun.com/images%2Flogo.png?imageMogr2/thumbnail/300x300)
 ## 列表，数字为有序，-为无序
 1.有序列表
 2.有序列表

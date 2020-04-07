@@ -53,7 +53,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 ## 技能清单
 + Web开发：PHP/GO（正在学习中）
 + Web框架：Yaf/Laravel5.4/Yii2.0
-+ 前端框架：Bootstrap、Amaze UI、Vue2
++ 前端框架：Vue、React、Nextjs
 + 数据库相关：MySQL/PDO/ado/Tidb
 + 缓存技术：Redis/memecache
 + 版本管理、文档和自动化部署工具：Svn/Git/Composer
@@ -68,9 +68,9 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 ## 联系方式
 
-- 手机：18272703766 
-- Email：chuhemiao@gmail.com 
-- QQ/微信号：535101602
+- 手机：182****3766 
+- Email：Y2h1aGVtaWFvQGdtYWlsLmNvbQ== 
+- QQ/微信号：NTM1MTAxNjAy
 
 ## 阅读
 
@@ -93,12 +93,12 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 ---	
 
 
->在梦的世界里，遥就是一切，在这个奇幻的世界里，遇到你何尝不是一种缘分。
 >想要，才去追寻。
  >>梦遥奇缘	
 
 
 ## 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+
++ 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 

@@ -33,7 +33,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 	2.Facebook 像素基码：Facebook 像素代码如上图所示，只有像素编号会与 567845666 不同。
 
 	3.标准事件代码：将与您的页面（例如：完成注册、加入购物车）相关的标准事件代码粘贴至 Facebook 像素代码中 </script> 标签上方。您需要在想要追踪的每个页面上如此操作。
-	4.![示例代码](http://source.shengxuezixun.com/images/facebook_pixels.jpg?imageMogr2/thumbnail/600x600)
+	4.![示例代码](https://source.shengxuezixun.com/images/facebook_pixels.jpg?imageMogr2/thumbnail/600x600)
 
 + 自定义事件
 	1.对您的业务至关重要的操作，但您需要做一些其他设置才能进行追踪和优化。[了解如何使用](https://developers.facebook.com/docs/facebook-pixel/api-reference#events)自定义事件。
@@ -53,7 +53,7 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 2.点击创建转化 > 以标准事件追踪转化。
 3.复制重要事件的事件代码。
 4.前往网站代码，替换相关页面的事件代码。我们建议您通过在脚本标签间单独添加事件代码执行此操作。建议您不要修改像素基码。
-5.![事件类型](http://source.shengxuezixun.com/images/facebook_lead.png?imageMogr2/thumbnail/600x600)
+5.![事件类型](https://source.shengxuezixun.com/images/facebook_lead.png?imageMogr2/thumbnail/600x600)
 
 ## 总结,最终放到页面中的代码如下：
 

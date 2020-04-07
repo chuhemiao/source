@@ -13,4 +13,4 @@ description: 有时候的失去未必不是一件好事，只是人生中的过�
 1. 项目目录下，可直接使用t聚焦到当前的搜索框
 2. `shift+?`可以直接显示出当前的快捷键,如下图
 
-![github](http://source.shengxuezixun.com/images/github.png)
+![github](https://source.shengxuezixun.com/images/github.png)
