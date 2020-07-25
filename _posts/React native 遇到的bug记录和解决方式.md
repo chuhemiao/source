@@ -2,7 +2,7 @@ title: React native 遇到的bug记录和解决方式
 id: .nan
 categories:
   - react
-date: 2020-06-24 18:03:53
+date: 2020-07-24 18:03:53
 toc: true
 tags: 
 	- dart

@@ -2,7 +2,7 @@ title: 2020最新React Native 0.62.2版本开发指南总结
 id: .nan
 categories:
   - react
-date: 2020-06-24 17:22:53
+date: 2020-07-24 17:22:53
 toc: true
 tags: 
 	- dart
