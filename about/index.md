@@ -1,7 +1,7 @@
 ---
 title: 梦遥奇缘
 date: 2016-01-07 12:53:54
-tags: chuhe
+tags: chuhemiao
 keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github,gitcafe,pacman,Laravel,CodeIgniter,Go
 ---
 
@@ -9,18 +9,16 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
  - 梦遥奇缘/男/1993-02-03
  - 工作年限：5年
- - 微博：[@梦遥奇缘](http://weibo.com/p/1006063292942135/home?from=page_100606&mod=TAB#place) 
- - 技术博客：http://idiot6.com 
- - Github: http://github.com/chuhemiao
-
- - 期望职位：前端开发工程师
+ - 技术博客：https://idiot6.com 
+ - Github: https://github.com/chuhemiao
+ - 期望职位：前端工程师
  - 期望薪资：月薪**
- - 期望城市：杭州/北京
+ - 期望城市：杭州
 ---
 
 ## 教育经历
 + 2012-2015   济源职业技术学院     专科    计算机网络技术
-+ 2017-2020   中国石油大学（北京） 本科    计算机科学与技术
++ 2017-2020   中国石油大学（北京）  本科    计算机科学与技术
 
 ---
 
@@ -38,26 +36,17 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 	- 前端开发、区块链开发
 
 + 长扬科技（2019年5月～至今）
-	- 前端开发，混合App开发（React）
+	- 前端开发，混合App开发（React Native）
 	
 ---
 
 
 ## 开源项目
 
- - [扒企业](https://github.com/chuhemiao/baqiye) : laravel搭建博客，laravel学习记录
  - [区块链开源课程系列](https://wiki.bsatoshi.com/) ：区块链基础，Go语言开发、RN、Flutter前端开发等
 
 
-## 技术文章
-
-- [微信分享到朋友圈，使用特定Logo](http://www.idiot6.com/2016/05/26/wechat_share/)
-- [php获取用户的ip](http://www.idiot6.com/2016/03/15/%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7ip/) 
-- [php使用qrcode生成二维码，并合成为一张图](http://www.idiot6.com/2016/11/16/qrcode_imagecopyresampled/)
-- [instagram上传照片后hexo报错](http://www.idiot6.com/2016/09/07/instagram/)
-
-
-## 技能清单
+## 技能
 
 + 后端开发
 	- PHP/Go
@@ -110,4 +99,4 @@ keywords: 梦遥奇缘,PHP,HTML,JS,Linux,YII,YAF,禾子,永远的呆,hexo,github
 
 ## Version
 
-+ 最后更新于20200719
++ 最后更新于20200804
